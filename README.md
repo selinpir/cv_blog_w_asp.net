@@ -1,6 +1,6 @@
 # CV Blog Admin Paneli
 
-Bu repo, ASP.NET Web Forms kullanılarak geliştirilmiş bir admin panelini içerir.
+Bu repo, ASP.NET Web Forms kullanılarak geliştirilmiş bir admin panelini içerir. Murat Yücedağ'ın ASP.NET Web Forms kursu ile geliştirdim.
 
 ## Proje Yapısı
 - **`cv_blog_home.aspx`**: Blog ana sayfasının tasarımı.
