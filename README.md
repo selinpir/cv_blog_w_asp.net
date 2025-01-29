@@ -12,3 +12,5 @@ Bu repo, ASP.NET Web Forms kullanılarak geliştirilmiş bir admin panelini içe
 ![4](https://github.com/user-attachments/assets/5af9ab3d-ad47-423a-91c2-bc8185605ccf)
 ![5](https://github.com/user-attachments/assets/1546e4d7-8007-4693-9d73-974127b57352)
 ![6](https://github.com/user-attachments/assets/b8db900d-ed9f-44c3-9525-e33b584f6aa6)
+![7](https://github.com/user-attachments/assets/adf6551d-c19d-4df8-99ef-25a7c2b1f089)
+![8](https://github.com/user-attachments/assets/28576c8e-58c7-47b9-8b34-76035379a663)
