@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\masaustu_yedek\\GITHUB\\cv_blog_w_asp.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\cv_blog_w_asp.net\\admin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\cv_blog_w_asp.net\\AdminDeneyimEkle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdminDeneyimEkle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\cv_blog_w_asp.net\\admin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\masaustu_yedek\\GITHUB\\cv_blog_w_asp.net\\AdminEgitimSil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -30,16 +30,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AdminDeneyimEkle.aspx",
               "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\cv_blog_w_asp.net\\AdminDeneyimEkle.aspx",
               "RelativeDocumentMoniker": "AdminDeneyimEkle.aspx",
-              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\cv_blog_w_asp.net\\AdminDeneyimEkle.aspx",
-              "RelativeToolTip": "AdminDeneyimEkle.aspx",
+              "ToolTip": "D:\\masaustu_yedek\\GITHUB\\cv_blog_w_asp.net\\AdminDeneyimEkle.aspx*",
+              "RelativeToolTip": "AdminDeneyimEkle.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-01-31T17:28:13.74Z",
@@ -55,8 +55,7 @@
               "RelativeToolTip": "AdminEgitimSil.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-01-31T17:27:40.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T17:27:40.039Z"
             },
             {
               "$type": "Document",
@@ -84,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "admin.Master",
               "DocumentMoniker": "D:\\masaustu_yedek\\GITHUB\\cv_blog_w_asp.net\\admin.Master",
               "RelativeDocumentMoniker": "admin.Master",
